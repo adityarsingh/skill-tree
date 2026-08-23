@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bullpen",
+  "description": "A bench of specialists for marketing work. Call one in when you need it.",
+  "owner": {
+    "name": "Aditya Raj Singh",
+    "url": "https://adityarsingh.in"
+  },
+  "plugins": [
+    {
+      "name": "bullpen",
+      "description": "Skills for marketing work that has to survive contact with a reader: killing corporate register, naming the audience, writing pages AI models will cite, and judging what a page actually communicates.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
