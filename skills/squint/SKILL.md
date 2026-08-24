@@ -4,7 +4,7 @@ description: Use when judging what a landing page, homepage, or screen actually 
 metadata:
   category: CRO
   tagline: "The squint test on a page: what reads first, and what that costs you."
-  order: 4
+  order: 5
 ---
 
 # squint

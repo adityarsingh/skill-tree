@@ -4,7 +4,7 @@ description: Use when a page should be cited by AI models and assistants rather 
 metadata:
   category: GEO
   tagline: "Restructures a page so AI models can lift and cite it."
-  order: 3
+  order: 4
 ---
 
 # quotable

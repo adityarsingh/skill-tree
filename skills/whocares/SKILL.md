@@ -4,7 +4,7 @@ description: Use when a brief, landing page, campaign, or piece of content targe
 metadata:
   category: Strategy
   tagline: "Forces you to name who actually cares before anything gets written."
-  order: 2
+  order: 3
 ---
 
 # whocares
