@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "bullpen",
+  "name": "skill-tree",
   "description": "Five Claude skills I wrote for my own marketing work.",
   "owner": {
     "name": "Aditya Raj Singh",
@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "bullpen",
+      "name": "skill-tree",
       "description": "The passes I run on marketing work: killing corporate register, catching autotuned prose, naming the audience, writing pages AI models will cite, and reading what a page communicates.",
       "source": "./",
       "category": "productivity"

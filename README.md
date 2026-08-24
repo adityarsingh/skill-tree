@@ -1,4 +1,4 @@
-# bullpen
+# skill-tree
 
 Five Claude skills I use most weeks.
 
@@ -12,8 +12,8 @@ Browse them at **[adityarsingh.in/skills](https://adityarsingh.in/skills/)**.
 ## Install
 
 ```
-/plugin marketplace add adityarsingh/bullpen
-/plugin install bullpen@bullpen
+/plugin marketplace add adityarsingh/skill-tree
+/plugin install skill-tree@skill-tree
 ```
 
 Then just work. Each skill fires on its own when the situation matches, or call
