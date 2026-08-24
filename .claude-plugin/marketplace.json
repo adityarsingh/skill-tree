@@ -9,8 +9,38 @@
   "plugins": [
     {
       "name": "skill-tree",
-      "description": "The passes I run on marketing work: killing corporate register, catching autotuned prose, naming the audience, writing pages AI models will cite, and reading what a page communicates.",
+      "description": "All five skills. Install this if you want the whole set.",
       "source": "./",
+      "category": "productivity"
+    },
+    {
+      "name": "autotune",
+      "description": "Removes AI writing tells without flattening your voice.",
+      "source": "./packs/autotune",
+      "category": "productivity"
+    },
+    {
+      "name": "buzzkill",
+      "description": "Cuts buzzwords and vague corporate language out of a draft.",
+      "source": "./packs/buzzkill",
+      "category": "productivity"
+    },
+    {
+      "name": "quotable",
+      "description": "Rewrites a page so AI models can quote and cite it.",
+      "source": "./packs/quotable",
+      "category": "productivity"
+    },
+    {
+      "name": "squint",
+      "description": "Checks what a page communicates before anyone reads the words.",
+      "source": "./packs/squint",
+      "category": "productivity"
+    },
+    {
+      "name": "whocares",
+      "description": "Works out who your writing is for before you start writing.",
+      "source": "./packs/whocares",
       "category": "productivity"
     }
   ]
