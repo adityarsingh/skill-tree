@@ -11,10 +11,22 @@ Browse them at **[adityarsingh.in/skills](https://adityarsingh.in/skills/)**.
 
 ## Install
 
+Typed at the Claude Code prompt, inside a running session:
+
 ```
 /plugin marketplace add adityarsingh/skill-tree
 /plugin install skill-tree@skill-tree
 ```
+
+Or from a shell, which is the same thing:
+
+```bash
+claude plugin marketplace add adityarsingh/skill-tree
+claude plugin install skill-tree@skill-tree
+```
+
+The `/plugin` form is a slash command, so a terminal will answer
+`no such file or directory: /plugin`. Use the `claude plugin` form there.
 
 Then just work. Each skill fires on its own when the situation matches, or call
 one by name.
@@ -23,9 +35,20 @@ one by name.
 
 Every skill is also its own plugin, so you can take one without the rest:
 
+```bash
+claude plugin marketplace add adityarsingh/skill-tree
+claude plugin install buzzkill@skill-tree
 ```
-/plugin marketplace add adityarsingh/skill-tree
-/plugin install buzzkill@skill-tree
+
+### If your network blocks the clone
+
+`marketplace add` clones this repo over HTTPS. Behind a proxy that blocks
+GitHub, copy the skill straight into your personal skills directory instead:
+
+```bash
+mkdir -p ~/.claude/skills/buzzkill
+curl -fsSL https://raw.githubusercontent.com/adityarsingh/skill-tree/main/skills/buzzkill/SKILL.md \
+  -o ~/.claude/skills/buzzkill/SKILL.md
 ```
 
 `packs/` holds a single-skill plugin per skill. It is generated, so edit
