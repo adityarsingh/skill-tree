@@ -1,10 +1,11 @@
 # bullpen
 
-A bench of specialists for marketing work. Call one in when you need it.
+Four Claude skills I use most weeks.
 
-Four Claude skills for the parts of marketing that have to survive contact with a
-reader: killing corporate register, naming who actually cares, writing pages AI
-models will cite, and judging what a page communicates before anyone reads it.
+I got tired of re-explaining the same passes to Claude, so I wrote them down:
+cutting corporate register out of a draft, working out who a page is for, making
+a page quotable by AI models, and reading what a page communicates before anyone
+reads it.
 
 Browse them at **[adityarsingh.in/skills](https://adityarsingh.in/skills/)**.
 
@@ -18,7 +19,7 @@ Browse them at **[adityarsingh.in/skills](https://adityarsingh.in/skills/)**.
 Then just work. Each skill fires on its own when the situation matches, or call
 one by name.
 
-## The bench
+## The skills
 
 | Skill | Category | What it's for |
 |---|---|---|
@@ -29,13 +30,12 @@ one by name.
 
 ## Why these four
 
-They're the passes I run most often and would rather not re-explain each time.
-`whocares` runs before anything is written, `buzzkill` and `quotable` on the
-draft, `squint` on the page it ends up as. Together they cover a piece of work
-from brief to published.
+`whocares` runs before I write anything. `buzzkill` and `quotable` go on the
+draft. `squint` goes on the page it ends up as. Between them they cover a piece
+of work from brief to published.
 
-More are coming. The ones queued: `receipts`, `deadwood`, `longtail`,
-`chopshop`, `boilerplate`, `swipe`, `pushback`.
+Queued next: `receipts`, `deadwood`, `longtail`, `chopshop`, `boilerplate`,
+`swipe`, `pushback`.
 
 ## Contributing
 
