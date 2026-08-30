@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "skill-tree",
-  "description": "Five Claude skills I wrote for my own marketing work.",
+  "description": "Six Claude skills I wrote for my own marketing work.",
   "owner": {
     "name": "Aditya Raj Singh",
     "url": "https://adityarsingh.in"
@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "skill-tree",
-      "description": "All five skills. Install this if you want the whole set.",
+      "description": "All 6 skills. Install this if you want the whole set.",
       "source": "./",
       "category": "productivity"
     },
@@ -23,6 +23,12 @@
       "name": "buzzkill",
       "description": "Cuts buzzwords and vague corporate language out of a draft.",
       "source": "./packs/buzzkill",
+      "category": "productivity"
+    },
+    {
+      "name": "premortem",
+      "description": "Kills an idea on paper before you build it, and names what killed it.",
+      "source": "./packs/premortem",
       "category": "productivity"
     },
     {

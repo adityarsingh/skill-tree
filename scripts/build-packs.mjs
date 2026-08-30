@@ -48,7 +48,7 @@ rmSync(PACKS, { recursive: true, force: true });
 const plugins = [
   {
     name: 'skill-tree',
-    description: 'All five skills. Install this if you want the whole set.',
+    description: `All ${names.length} skills. Install this if you want the whole set.`,
     source: './',
     category: 'productivity',
   },

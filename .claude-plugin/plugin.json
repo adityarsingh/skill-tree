@@ -1,7 +1,7 @@
 {
   "name": "skill-tree",
-  "version": "0.2.0",
-  "description": "Five skills I use for marketing work. buzzkill cuts buzzwords, autotune removes AI writing tells, whocares works out who the writing is for, quotable makes a page citable by AI models, squint checks what a page communicates at a glance.",
+  "version": "0.3.0",
+  "description": "Six skills I use for marketing work. buzzkill cuts buzzwords, autotune removes AI writing tells, whocares works out who the writing is for, premortem argues against an idea before you build it, quotable makes a page citable by AI models, squint checks what a page communicates.",
   "author": {
     "name": "Aditya Raj Singh",
     "url": "https://adityarsingh.in"
